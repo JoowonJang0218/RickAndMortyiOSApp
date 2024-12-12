@@ -7,6 +7,7 @@
 
 import UIKit
 
+/// Conroller to show various ap options and settings
 final class RMSettingsViewController: UIViewController {
 
     override func viewDidLoad() {
